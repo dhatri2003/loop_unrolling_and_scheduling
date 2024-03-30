@@ -10,7 +10,7 @@ This project demonstrates the implementation of loop unrolling and scheduling te
 To run the simulations and tests, follow these steps:
 
 1. Open Ripes 
-2. Run test programs with different loop structures to observe effects of unrolling and scheduling
+2. Run the programs to observe effects of unrolling and scheduling
     
 
 ## How it Works
