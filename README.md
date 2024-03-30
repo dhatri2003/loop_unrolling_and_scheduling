@@ -23,3 +23,4 @@ Loop unrolling is a technique where multiple iterations of a loop are executed i
 
 Instruction scheduling involves rearranging the order of instructions to minimize pipeline stalls and improve throughput. By reordering instructions, we aim to keep the processor busy and avoid data hazards. The test programs showcase different scheduling strategies and their impact on execution time.
 
+# The program uses 5-stage processor with forwarding unit
